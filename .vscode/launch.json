@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exemplo3SpringBootTurmaBApplication",
+            "request": "launch",
+            "mainClass": "br.senac.tads.dsw.exemplo3.Exemplo3SpringBootTurmaBApplication",
+            "projectName": "exemplo3-spring-boot-turmaB"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-Exemplo2SpringBootTurmaBApplication<exemplo3-spring-boot-turmaB>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
