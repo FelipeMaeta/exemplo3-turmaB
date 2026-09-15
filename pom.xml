@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.senac.tads.dsw</groupId>
-	<artifactId>exemplo2-spring-boot-turmaB</artifactId>
+	<artifactId>exemplo3-spring-boot-turmaB</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
